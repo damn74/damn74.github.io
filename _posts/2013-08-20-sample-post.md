@@ -43,3 +43,5 @@ class User < ActiveRecord::Base
 end
 
 {% endhighlight %}
+
+![Alt] (Untitled Diagram.png)
