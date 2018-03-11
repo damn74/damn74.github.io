@@ -53,6 +53,7 @@ graph LR
         D-->C
 </div>
 
+<div class="mermaid">
 sequenceDiagram
     participant Alice
     participant Bob
@@ -64,3 +65,4 @@ sequenceDiagram
     John-->>Alice: Great!
     John->>Bob: How about you?
     Bob-->>John: Jolly good!
+</div>
